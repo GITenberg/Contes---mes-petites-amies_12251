@@ -1,0 +1,33 @@
+_repo: Contes---mes-petites-amies_12251
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bouilly, Jean Nicolas
+    aliases:
+    - Bouilly, Nicolas de
+    - Bouilly, J. N. (Jean Nicolas)
+    - Bouilly, Jean-Nicolas
+    birthdate: 1763
+    deathdate: 1842
+    gutenberg_agent_id: '4280'
+    url: http://www.gutenberg.org/2009/agents/4280
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jean-Nicolas_Bouilly
+    - http://fr.wikipedia.org/wiki/Jean-Nicolas_Bouilly
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12251'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, French'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- GITenberg
+title: Contes à mes petites amies
+url: http://www.gutenberg.org/ebooks/12251
